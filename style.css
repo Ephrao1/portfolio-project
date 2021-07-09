@@ -1,0 +1,16 @@
+.nav1 {
+    background-color: gray;
+}
+a {
+    color: white;
+}
+.clear {
+    clear: both;
+}
+nav ul {
+    float: right;
+}
+nav li {
+    float: left;
+    margin: 0rem 2rem;
+}
