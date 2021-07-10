@@ -115,3 +115,45 @@ padding-bottom: 80%;
     text-align: justify;
     padding: 10rem;
 }
+.container {
+    display: flex;
+    position: relative;
+    margin: 40px 0;
+    background-color: blue;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.863);
+    background-size: cover;
+    margin-bottom: 50px;
+    
+}
+.img1 {
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}
+.img2 {
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}
+.img3 {
+    box-shadow: rgba(0, 0, 0, 0.3);
+}
+h3 {
+    font-size: 25px;
+}
+.proj {
+    text-align: center;
+
+}
+.div2 {
+    background: #333;
+}
+.skills {
+    width: 500px;
+    margin: 60px auto;
+    color: white;
+}
+.skills li {
+    margin: 20px 0;
+}
+/* {
+    border: 3px lawngreen dashed;
+
+}*/
