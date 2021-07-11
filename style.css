@@ -2,6 +2,19 @@
     background-color: gray;
     color: white;
     padding: 1rem;
+    position: fixed;
+    width: 98%;
+}
+.nav1 ul li {
+ text-decoration: none;
+ color: white;
+ padding: 8px 25px;
+ transition: all .5s ease;
+}
+.nav1 ul li:hover {
+    background-color: rgba(255, 255, 255, 0.527);
+    color: black;
+    box-shadow: 0 0 10px white;
 }
 a {
     color: white;
@@ -71,8 +84,10 @@ h2 {
     color:white;
     outline: none;
     transition: .6 ease;
+    position: relative;
+    top: 20%;
 }
-.btn {
+.btn:hover {
 cursor: pointer;
 background-color: white;
 color: black;
@@ -127,8 +142,10 @@ padding-bottom: 80%;
     box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0.795);
     background-size: cover;
-    margin-bottom: 50px;
-    
+    margin-bottom: 50px; 
+}
+.container img{
+    padding: 10px;
 }
 .img1 {
     box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
@@ -243,6 +260,7 @@ h3 {
     transition: 0.5s;
     text-align: center;
 }
+
 
 .contact {
     display: grid;
