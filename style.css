@@ -47,11 +47,15 @@ h2 {
     flex-direction: column;
     box-sizing: border-box;
     padding: 20px;
-    background-color: black;
     margin-bottom: 50px;
     background-size: cover;
     text-align: center;
     padding-top: 5rem;
+}
+.proj {
+    text-align: center;
+    padding-right: 50%;
+    
 }
 .pic1 {
     display: flex;
@@ -121,7 +125,7 @@ padding-bottom: 80%;
     margin: 40px 0;
     background-color: blue;
     box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.863);
+    background-color: rgba(0, 0, 0, 0.795);
     background-size: cover;
     margin-bottom: 50px;
     
