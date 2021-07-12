@@ -9,6 +9,6 @@
 * Web Browser
 * Good Internet connection
 ## link
-### https://ephrao1.github.io/portfolio-project/
+### (https://ephrao1.github.io/portfolio-project/)
 ## LICENSE
 Copyright &copy;2021. [MIT](https://choosealicense.com/licenses/mit/)
